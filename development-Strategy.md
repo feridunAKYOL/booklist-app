@@ -1,4 +1,4 @@
-# Drum-Kit: development strategy
+# booklist-app: development strategy
 
 ## 0. README
 
